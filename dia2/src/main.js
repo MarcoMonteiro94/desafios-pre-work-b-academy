@@ -1,3 +1,3 @@
 import * as Immutable from './immutable'
+import * as Calculator from './calculator'
 
-console.log(Immutable)
